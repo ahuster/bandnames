@@ -27,3 +27,5 @@
 - Turbocharged Engine Hotshot
 - Curated Moon Colony
 - Inconvenient Subset
+- The Longest Division
+- Infinite Recursion
