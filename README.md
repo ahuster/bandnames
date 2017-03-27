@@ -1,4 +1,4 @@
-# Bandnames
+# Band Names
 - Quinoa Salad
 - Perplexed By Excel
 - Midsection In The Shot
