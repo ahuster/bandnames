@@ -30,3 +30,9 @@
 - The Longest Division
 - Infinite Recursion
 - Neon Relish
+- Festive War Zone
+- Sriracha Teen
+- Unlisted Peanuts
+- Obnoxious Earworm
+- $_band
+- Emoji Worm
