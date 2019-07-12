@@ -40,3 +40,7 @@
 - Cordless Toast
 - The Post-It Note Situation
 - Transcendant Hot Dog
+- Peanut Butter LEGO Hype Machine
+- Garlic Champion
+- Partisan Bologna
+- Robot Strike Zone
